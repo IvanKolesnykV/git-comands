@@ -1,0 +1,18 @@
+msysgit.github.io		- скачать git для команд в командной строке***
+
+dir 				- посмотреть кде
+cd.. 				- вийти из всех папок
+cd public 			- зайти на папку public
+
+git init			- добаляет скритую папку git
+git add index.html 		- добавить файл index.html
+git add . 			- добавить все файли***
+git commit -m "Add index.html" 	- добавить комит
+git push			- закинуть вайлы на сайт***
+
+git clone ccылку 		- клонирувать из github
+git status 	 		- посмотреть статус репозитория
+
+git config --global user.name "Ivan" 			 - имя вводим
+git config --global user.email "IvanKolesnykV@gmail.com" - емейл
+
