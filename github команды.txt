@@ -8,7 +8,7 @@ git init			- добаляет скритую папку git
 git add index.html 		- добавить файл index.html
 git add . 			- добавить все файли***
 git commit -m "Add index.html" 	- добавить комит
-git push			- закинуть вайлы на сайт***
+git push -u origin master	- закинуть вайлы на сайт***
 
 git clone ccылку 		- клонирувать из github
 git status 	 		- посмотреть статус репозитория
